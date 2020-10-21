@@ -1,0 +1,9 @@
+export const GET_ERRORS = "GET_ERRORS";
+
+export const GET_BENEFICIARES = "GET_BENEFICIARES";
+
+export const GET_COMPTES = "GET_COMPTES";
+
+export const GET_VIREMENT = "GET_VIREMENT";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
